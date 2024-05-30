@@ -1,4 +1,4 @@
-# alcoTest
-Pending projett
-stm32 breathalyser
-Analog alcohol sensor MQ-135
+# alcoTest - breathalyser
+Currently working on this project...
+* STM32 based
+* Analog alcohol sensor MQ-135
