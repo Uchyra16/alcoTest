@@ -1,0 +1,10 @@
+../Core/Src/main.c:64:5:__io_putchar	16	static
+../Core/Src/main.c:76:6:startHeating	16	static
+../Core/Src/main.c:93:10:sensorValue	16	static
+../Core/Src/main.c:103:7:sensorValuetoV	24	static
+../Core/Src/main.c:113:10:measurementMode	24	static
+../Core/Src/main.c:137:8:calcPPM	32	static
+../Core/Src/main.c:146:7:calcBAC	24	static
+../Core/Src/main.c:165:5:main	32	static
+../Core/Src/main.c:233:6:SystemClock_Config	96	static
+../Core/Src/main.c:286:6:Error_Handler	4	static,ignoring_inline_asm
